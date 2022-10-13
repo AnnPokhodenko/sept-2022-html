@@ -1,0 +1,31 @@
+h1 {
+    background: lightskyblue;
+    color: aliceblue
+}
+
+h2 {
+    background: aliceblue;
+    color: lightskyblue
+}
+
+p {
+    background: aliceblue;
+    color: black;
+}
+
+li {
+    background: lightyellow;
+    color: black;
+}
+
+.fam {
+    width: 400px
+}
+
+.member {
+    width: 250px;
+}
+
+i{
+    font-size: 22px;
+}
