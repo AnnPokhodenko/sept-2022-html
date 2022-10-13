@@ -16,6 +16,7 @@ p {
 li {
     background: lightyellow;
     color: black;
+    width: 700px
 }
 
 .fam {
@@ -27,5 +28,5 @@ li {
 }
 
 i{
-    font-size: 22px;
+    font-size: 20px;
 }
